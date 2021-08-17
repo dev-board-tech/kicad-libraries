@@ -1,4 +1,4 @@
-(module ISSI_MINI_BGA_36 (layer F.Cu) (tedit 5DD2AFDD)
+(module ISSI_MINI_BGA_36 (layer F.Cu) (tedit 611BC792)
   (descr http://www.issi.com/WW/pdf/61-64WV5128Axx-Bxx.pdf)
   (tags SRAM)
   (attr smd)
@@ -85,7 +85,7 @@
     (solder_mask_margin 0.02))
   (pad H6 smd circle (at 2.0315 2.806) (size 0.35 0.35) (layers F.Cu F.Paste F.Mask)
     (solder_mask_margin 0.02))
-  (model "C:/Program Files/KiCad/share/kicad/modules/packages3d/Package_BGA.3dshapes/BGA-36_3.396x3.466mm_Layout6x6_P0.4mm_Ball0.25mm_Pad0.2mm_NSMD.step"
+  (model ${KISYS3DMOD}/Package_BGA.3dshapes/BGA-36_3.396x3.466mm_Layout6x6_P0.4mm_Ball0.25mm_Pad0.2mm_NSMD.step
     (at (xyz 0 0 0))
     (scale (xyz 1.9 2.5 1))
     (rotate (xyz 0 0 0))

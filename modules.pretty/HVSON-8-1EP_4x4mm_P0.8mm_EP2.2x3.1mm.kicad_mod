@@ -1,4 +1,4 @@
-(module HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm (layer F.Cu) (tedit 5EF06733)
+(module HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm (layer F.Cu) (tedit 611BC785)
   (descr "HVSON, 8 Pin (https://www.nxp.com/docs/en/data-sheet/PCF8523.pdf (page 57)), generated with kicad-footprint-generator ipc_noLead_generator.py")
   (tags "HVSON NoLead")
   (attr smd)
@@ -35,7 +35,7 @@
   (pad 6 smd roundrect (at 1.875 0.4) (size 1 0.35) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 7 smd roundrect (at 1.875 -0.4) (size 1 0.35) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
   (pad 8 smd roundrect (at 1.875 -1.2) (size 1 0.35) (layers F.Cu F.Paste F.Mask) (roundrect_rratio 0.25))
-  (model ${KISYS3DMOD}/Package_SON.3dshapes/HVSON-8-1EP_4x4mm_P0.8mm_EP2.2x3.1mm.wrl
+  (model ${KISYS3DMOD}/Package_SON.3dshapes/WSON-8_4x4mm_P0.8mm.wrl
     (at (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
