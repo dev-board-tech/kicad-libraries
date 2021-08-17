@@ -1,0 +1,15 @@
+EESchema-LIBRARY Version 2.4
+#encoding utf-8
+#
+# devboard_Logo1
+#
+DEF devboard_Logo1 LOGO 0 40 Y Y 1 F N
+F0 "LOGO" 0 0 50 H V C CNN
+F1 "devboard_Logo1" 0 0 50 H V C CNN
+F2 "Personal_Components:devboard_logo1" 0 0 50 H I C CNN
+F3 "" 0 0 50 H I C CNN
+DRAW
+ENDDRAW
+ENDDEF
+#
+#End Library

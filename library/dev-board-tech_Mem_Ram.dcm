@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IS61WV5128BLL-10BLI
+D 512K x 8 HIGH-SPEED CMOS STATIC RAM, 10ns, Mini BGA 36
+K SRAM
+F http://www.issi.com/WW/pdf/61-64WV5128Axx-Bxx.pdf
+$ENDCMP
+#
+#End Doc Library

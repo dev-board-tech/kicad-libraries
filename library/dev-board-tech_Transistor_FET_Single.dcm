@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP IRFP4321PbF
+D MOSFET 150V 78A 15.5mOhm TO247-3
+K MOSFET 150V 78A 15.5mOhm TO247-3
+F https://www.infineon.com/dgdl/irfp4321pbf.pdf?fileId=5546d462533600a40153562c4f802011
+$ENDCMP
+#
+#End Doc Library

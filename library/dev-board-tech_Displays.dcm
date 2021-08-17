@@ -1,0 +1,12 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP GDEW0102I3F
+D eInk Display 1.02 inch
+$ENDCMP
+#
+$CMP SSD1306
+D 128x64 OLED Display
+K OLED
+$ENDCMP
+#
+#End Doc Library

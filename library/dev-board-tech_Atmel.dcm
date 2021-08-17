@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP Atxmega128A1U-CU
+D 32MHz, 128kB Flash, 8kB Boot, 8kB SRAM, 2kB EEPROM, JTAG, USB, TFBGA-100
+K AVR 8/16bit Microcontroller XMegaAVR
+F ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8385-8-and-16-bit-AVR-Microcontroller-ATxmega64A1U-ATxmega128A1U_datasheet.pdf
+$ENDCMP
+#
+$CMP Atxmega128A4U-MH
+D 32MHz, 128kB Flash, 8kB Boot, 8kB SRAM, 2kB EEPROM, JTAG, USB, QFN-44
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8387-8-and16-bit-AVR-Microcontroller-XMEGA-A4U_Datasheet.pdf
+$ENDCMP
+#
+$CMP Atxmega16A4U-MH
+D 32MHz, 16kB Flash, 4kB Boot, 2kB SRAM, 1kB EEPROM, JTAG, USB, QFN-44
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8387-8-and16-bit-AVR-Microcontroller-XMEGA-A4U_Datasheet.pdf
+$ENDCMP
+#
+$CMP Atxmega32A4U-MH
+D 32MHz, 32kB Flash, 4kB Boot, 4kB SRAM, 1kB EEPROM, JTAG, USB, QFN-44
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8387-8-and16-bit-AVR-Microcontroller-XMEGA-A4U_Datasheet.pdf
+$ENDCMP
+#
+$CMP Atxmega32E5-MU
+D 32MHz, 32kB Flash, 4kB Boot, 4kB SRAM, 1kB EEPROM, QFN-32
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8153-8-and-16-bit-AVR-Microcontroller-XMEGA-E-ATxmega8E5-ATxmega16E5-ATxmega32E5_Datasheet.pdf
+$ENDCMP
+#
+$CMP Atxmega64A1U-CU
+D 32MHz, 64kB Flash, 4kB Boot, 4kB SRAM, 2kB EEPROM, JTAG, USB, TFBGA-100
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8385-8-and-16-bit-AVR-Microcontroller-ATxmega64A1U-ATxmega128A1U_datasheet.pdf
+$ENDCMP
+#
+$CMP Atxmega64A4U-MH
+D 32MHz, 64kB Flash, 4kB Boot, 4kB SRAM, 2kB EEPROM, JTAG, USB, QFN-44
+K AVR 8/16bit Microcontroller XMegaAVR
+F http://ww1.microchip.com/downloads/en/DeviceDoc/Atmel-8387-8-and16-bit-AVR-Microcontroller-XMEGA-A4U_Datasheet.pdf
+$ENDCMP
+#
+#End Doc Library

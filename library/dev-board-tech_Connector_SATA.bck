@@ -1,0 +1,9 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP SATA_HEADER_SMT_VERTICAL
+D SATA Header
+K SATA Header
+F https://www.molex.com/pdm_docs/sd/678007005_sd.pdf
+$ENDCMP
+#
+#End Doc Library

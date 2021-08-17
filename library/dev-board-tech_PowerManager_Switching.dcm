@@ -1,0 +1,45 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP ADP322
+F https://datasheet.lcsc.com/szlcsc/1901120033_Analog-Devices-ADI-ADP322ACPZ-189-R7_C143897.pdf
+$ENDCMP
+#
+$CMP LTC3569_3mm_×4mm
+D Triple Buck Regulator with  1.2A and Two 600mA Outputs and Individual Programmable References
+K Triple Buck PMIC
+F https://www.analog.com/media/en/technical-documentation/data-sheets/3569fe.pdf
+$ENDCMP
+#
+$CMP MIC2238
+D PWM Buck Regulator 2.5Mhz Dual Phase
+K MIC2238 PWM Buck Regulator
+F http://ww1.microchip.com/downloads/en/DeviceDoc/mic2238.pdf
+$ENDCMP
+#
+$CMP MIC5387
+D Ultra small Triple 150mA Output LDO
+F https://ww1.microchip.com/downloads/en/DeviceDoc/mic5387.pdf
+$ENDCMP
+#
+$CMP NCP161BMX280TBG
+D LDO Regulator for RF and Analog Circuits - Ultra Low noise and High PSSR 450mAQuescent 18uA
+K LDO
+$ENDCMP
+#
+$CMP TPS54202H
+D Synchronous Step Down Voltage Converter, Vin 4.5-28V, Vout ADJ, 2A, 500Khz
+K Step Down Regulator
+F http://www.ti.com/lit/ds/symlink/tps54202h.pdf
+$ENDCMP
+#
+$CMP TPS621xx
+D PMIC-1-2-3A
+K PMIC
+F https://www.ti.com/lit/ds/symlink/tps62130.pdf
+$ENDCMP
+#
+$CMP XC6420_SOT-23-6
+F https://datasheet.lcsc.com/szlcsc/Torex-Semicon-XC6420AB19MR-G_C122894.pdf
+$ENDCMP
+#
+#End Doc Library

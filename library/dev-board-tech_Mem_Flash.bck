@@ -1,0 +1,15 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP 25LC_SO8
+D 32Mb SPI/Qyad SPI Flash Memory
+K Flash Memory
+F http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_32mb_3v_65nm.pdf
+$ENDCMP
+#
+$CMP N25Q032A13EF440F_PDFN8_4x3mm
+D 32Mb SPI/Qyad SPI Flash Memory
+K Flash Memory 32Mb
+F http://www.micron.com/~/media/Documents/Products/Data%20Sheet/NOR%20Flash/Serial%20NOR/N25Q/n25q_32mb_3v_65nm.pdf
+$ENDCMP
+#
+#End Doc Library
