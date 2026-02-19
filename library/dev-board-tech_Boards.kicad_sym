@@ -15,7 +15,7 @@
 			)
 		)
 		(property "Value" "AnaloguePocketCartridgeEdgeConn_3.3V"
-			(at 15.366 -10.2642 0)
+			(at 11.684 -50.038 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23,7 +23,7 @@
 			)
 		)
 		(property "Footprint" "dev-board-tech:AnaloguePocketCartridgeEdgeConn_3.3V"
-			(at 15.366 -10.2642 0)
+			(at 10.922 -47.244 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32,7 +32,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.analogue.co/developer/docs/external-hardware#cartridge-bus-+-link-port"
-			(at 15.366 -10.2642 0)
+			(at 10.668 -53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
